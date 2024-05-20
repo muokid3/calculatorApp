@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <style name="Theme.Calculator" parent="android:Theme.Material.Light.NoActionBar">-->
+    <style name="Theme.Calculator" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/grey</item>
+        <!-- Secondary brand color. -->
+        <item name="android:colorAccent">@color/purple_500</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/grey</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
